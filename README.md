@@ -15,6 +15,10 @@ Inspired by awesome-python.
 
 - [Awesome Scratch Projects](#awesome-scratch-projects)
     - [My Favorite](#my-favorite)
+      - [Projects](#projects)
+       - [Small & Beautiful](#Small-and-Beautiful)
+       - [Others](#others)
+      - [Scratchers](#Scratchers)
     - [Starter Projects](#starter-projects)
     - [Microworld](#microworld)
     - [Explore](#explore)
@@ -27,14 +31,21 @@ Inspired by awesome-python.
 
 
 # My Favorite
+
+## Projects
+
+### Small & Beautiful
+- [SoundFlower](https://scratch.mit.edu/projects/10007296/) by [mres](https://scratch.mit.edu/users/mres/)
+- [Scratch 3.0 is here!](https://scratch.mit.edu/projects/276660763/) by [ScratchCat](https://scratch.mit.edu/users/ScratchCat)
+
+### Others
 - [サッカー / Soccer](https://scratch.mit.edu/projects/230073978/) by [pandakun](https://scratch.mit.edu/users/pandakun/)
 - [slither.io v1.10](https://scratch.mit.edu/projects/108566337/) by [griffpatch](https://scratch.mit.edu/users/griffpatch/)
 - [Orbit](https://scratch.mit.edu/projects/221275988/) by [Will_Wam](https://scratch.mit.edu/users/Will_Wam/)
 - [Run & Jump](https://scratch.mit.edu/projects/208914317/) by [ToadfanSchool](https://scratch.mit.edu/users/ToadfanSchool/)
-- [SoundFlower](https://scratch.mit.edu/projects/10007296/) by [mres](https://scratch.mit.edu/users/mres/)
 - [Summer - Interactive Flat Design](https://scratch.mit.edu/projects/226061688/) by [DragonLover379](https://scratch.mit.edu/users/DragonLover379)
 - [₵Ø₵Ø || Blockshade // "Remember Me" cover by altamont07](https://scratch.mit.edu/projects/215881611/) by [altamont07](https://scratch.mit.edu/users/altamont07/)
-- [Google Chrome Dino Run](https://scratch.mit.edu/projects/`189057541`/) by [1000652](https://scratch.mit.edu/users/1000652/)
+- [Google Chrome Dino Run](https://scratch.mit.edu/projects/189057541/) by [1000652](https://scratch.mit.edu/users/1000652/)
 - [Rainbow Wave](https://scratch.mit.edu/projects/235228209/) by [ceebee](https://scratch.mit.edu/users/ceebee)
 - [Sand and Water v3.2](https://scratch.mit.edu/projects/206806888/) by [griffpatch](https://scratch.mit.edu/users/griffpatch)
 - [Super Mario Bros.](https://scratch.mit.edu/projects/196684240) by [Will_Wam](https://scratch.mit.edu/users/Will_Wam/)
@@ -58,7 +69,7 @@ Inspired by awesome-python.
 - [Rotating Platformer Mario Galaxy Style](https://scratch.mit.edu/projects/12275078/) by [griffpatch](https://scratch.mit.edu/users/griffpatch)
 - [Griffpatch's Tower Defence v1.0](https://scratch.mit.edu/projects/15200040/) by [griffpatch](https://scratch.mit.edu/users/griffpatch)
 - [The Hoard++](https://scratch.mit.edu/projects/68617928/) by [Psiborg](https://scratch.mit.edu/users/Psiborg)
-- [https://scratch.mit.edu/projects/115735599/](https://scratch.mit.edu/projects/115735599/) by [griffpatch](https://scratch.mit.edu/users/griffpatch)
+- [Optics (refraction) v0.5](https://scratch.mit.edu/projects/115735599/) by [griffpatch](https://scratch.mit.edu/users/griffpatch)
 - [Scratch Emulator v0.21.1](https://scratch.mit.edu/projects/113321949/) by [griffpatch](https://scratch.mit.edu/users/griffpatch)
 - [Stickman Animator](https://scratch.mit.edu/projects/172663245/) by [RokCoder](https://scratch.mit.edu/users/RokCoder)
 - [Shortcircuit](https://scratch.mit.edu/projects/120050882/) by [-Cobalt-](https://scratch.mit.edu/users/-Cobalt-)
@@ -73,7 +84,6 @@ Inspired by awesome-python.
 - [Cubefield (Remake by 1dat_doodles)](https://scratch.mit.edu/projects/260056237/) by [1dat_doodles](https://scratch.mit.edu/users/1dat_doodles)
 - [Scratchnapped Adventure v0.2.7](https://scratch.mit.edu/projects/259993708/) by [griffpatch](https://scratch.mit.edu/users/griffpatch)
 - [Generic Red (3 levels)](https://scratch.mit.edu/projects/292297781/) by [griffpatch](https://scratch.mit.edu/users/griffpatch)
-- [Scratch 3.0 is here!](https://scratch.mit.edu/projects/276660763/) by [ScratchCat](https://scratch.mit.edu/users/ScratchCat)
 - [Scratch's Galaxy Adventure v1.0](https://scratch.mit.edu/projects/304152090/) by [-FinalTrack-](https://scratch.mit.edu/users/-FinalTrack-)
 - [Trampoline Bounce](https://scratch.mit.edu/projects/302042626/) by [DD-8861](https://scratch.mit.edu/users/DD-8861)
 - [Flying ship / 空船](https://scratch.mit.edu/projects/306846146/) by [pandakun](https://scratch.mit.edu/users/pandakun)
@@ -92,31 +102,34 @@ Inspired by awesome-python.
 - [Impulse 2D Physics Engine 1.3.0](https://scratch.mit.edu/projects/86958095/) by [griffpatch](https://scratch.mit.edu/users/griffpatch)
 - [3d pen sketcher v4.2](https://scratch.mit.edu/projects/112008562/) by [griffpatch](https://scratch.mit.edu/users/griffpatch)
 
-## Starter Projects
+## Scratchers
+- [griffpatch](https://scratch.mit.edu/users/griffpatch)
+
+# Starter Projects
 >  Try out these starter projects from the Scratch Team. Look inside and remix to make changes and add your ideas.
 
-### Animation
+## Animation
 - [Dance Party](https://scratch.mit.edu/projects/10128067/)
 - [Animate the Crab](https://scratch.mit.edu/projects/10015059/)
 - [The Pico Show: Intro](https://scratch.mit.edu/projects/10015060/)
 - [Greeting Card](https://scratch.mit.edu/projects/11806234/)
 
 
-## Microworld
+# Microworld
 
-## Explore
+# Explore
 
-### Animations
+## Animations
 
-### Art
+## Art
 
-### Games
+## Games
 
-### Music
+## Music
 
-### Stories
+## Stories
 
-### Tutorials
+## Tutorials
 
 
 # Contributing
